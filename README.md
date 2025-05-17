@@ -11,4 +11,4 @@ We finish the report by running some numerical experiments comparing the compute
 The Vlasov Solver Notebook contains all the code for the methods and contains simulations/physical verifications for all the methods. In particular, physically accurate simulations of plasma oscillations and the two-stream instability are present. 
 Tests of the solvers with a prescribed Hamiltonian are also presented. The Jupyter notebook is already compiled, but can also be run on Adroit by downloading the file.
 
-The file "Numerical Experiments" contains the code for the numerical experiments in the write-up. 
+The file "Numerical Experiments" contains the code for the numerical experiments in the write-up. It is already compiled but can be run on Adroit.
