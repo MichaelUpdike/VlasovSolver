@@ -13,4 +13,4 @@ that the plasma oscillations have the right frequency, and the two-stream system
 We show that the first and second order methods are stable, and numerically diffuse at the expected rates. We show that the second-order method has oscillations in front of the solution. We demonstrate that the slope-limited second-order methods are
 positivity preserving. We also verify our electric field solver and demonstrate Gibbs' phenomena. The Jupyter notebook is already compiled, but can also be run on Adroit by downloading the file.
 
-The file "Numerical Experiments" contains the code/plots for the numerical experiments in the write-up. It is already compiled but can be run on Adroit.
+The file "Numerical Experiments" contains the code/plots for the numerical experiments in the write-up. The correct accuracy and compute time vs. resolution plots are observed. It is already compiled but can be run on Adroit.
